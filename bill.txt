@@ -1,10 +1,13 @@
-S. 615
+S. 625
 
 To provide for congressional review and oversight of agreements relating to Iran's nuclear program, and for other purposes.
 
 IN THE SENATE OF THE UNITED STATES
-February 27, 2015
-Mr. Corker (for himself, Mr. Menendez, Mr. Graham, Mr. Kaine, Mr. McCain, Mr. Donnelly, Mr. Rubio, Ms. Heitkamp, Ms. Ayotte, Mr. Nelson, Mr. Risch, and Mr. King) introduced the following bill; which was read twice and referred to the Committee on Foreign Relations
+March 3, 2015
+Mr. McConnell introduced the following bill; which was read the first time
+
+March 4, 2015
+Read the second time and placed on the calendar
 
 A BILL
 To provide for congressional review and oversight of agreements relating to Iran's nuclear program, and for other purposes.
@@ -239,3 +242,6 @@ The Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) is amended by inserting a
 “(7) P5+1 COUNTRIES.—The term ‘P5+1 countries’ means the United States, France, the Russian Federation, the People’s Republic of China, the United Kingdom, and Germany.
 
 “(8) UNITED STATES PERSON.—The term ‘United States person’ has the meaning given that term in section 101 of the Comprehensive Iran Sanctions, Accountability, and Divestment Act of 2010 (22 U.S.C. 8511).”.
+
+SEC. 3. EFFECTIVE DATE.
+This Act shall become effective 1 day after enactment.
